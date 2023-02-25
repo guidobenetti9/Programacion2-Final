@@ -1,0 +1,151 @@
+# depslib dependency file v1.0
+1669044068 source:c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\main.cpp
+	"declaraciones.h"
+
+1669039277 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\declaraciones.h
+	<windows.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"funciones.h"
+	"claseFecha.h"
+	"claseVendedor.h"
+	"funcionesVendedores.h"
+	"claseProveedor.h"
+	"funcionesProveedor.h"
+	"claseProducto.h"
+	"funcionesProducto.h"
+	"ClaseVentaCabecera.h"
+	"funcionesVentaCabecera.h"
+	"ClaseVentaDetalle.h"
+	"funcionesVentaDetalle.h"
+	"claseVentaPie.h"
+	"funcionesVentaPie.h"
+	"asignacionID.h"
+	"reportes.h"
+	"menuProveedores.h"
+	"MenuProducto.h"
+	"menuVenta.h"
+	"menuVendedor.h"
+	"menuConfiguracionGeneral.h"
+	"MenuPrincipal.h"
+
+1669038958 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funciones.h
+
+1666976148 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\clasefecha.h
+
+1667314528 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\clasevendedor.h
+
+1667409313 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesvendedores.h
+
+1667310399 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\claseproveedor.h
+
+1667409283 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesproveedor.h
+
+1667312258 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\claseproducto.h
+
+1667409283 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesproducto.h
+
+1669042656 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventacabecera.h
+
+1667409419 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventacabecera.h
+
+1669041882 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventadetalle.h
+
+1667409419 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventadetalle.h
+
+1669040655 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventapie.h
+
+1667409419 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventapie.h
+
+1669039250 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\asignacionid.h
+
+1667443356 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\reportes.h
+
+1669039626 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuproveedores.h
+
+1669039774 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuproducto.h
+
+1669043619 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuventa.h
+
+1669040045 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuvendedor.h
+
+1667432483 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuconfiguraciongeneral.h
+
+1669043619 c:\users\guini\onedrive\escritorio\prog y labo 2\labo 2\tp_final\tpfinallab2\menuprincipal.h
+
+1669044068 source:c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\main.cpp
+	"declaraciones.h"
+
+1669039277 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\declaraciones.h
+	<windows.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"funciones.h"
+	"claseFecha.h"
+	"claseVendedor.h"
+	"funcionesVendedores.h"
+	"claseProveedor.h"
+	"funcionesProveedor.h"
+	"claseProducto.h"
+	"funcionesProducto.h"
+	"ClaseVentaCabecera.h"
+	"funcionesVentaCabecera.h"
+	"ClaseVentaDetalle.h"
+	"funcionesVentaDetalle.h"
+	"claseVentaPie.h"
+	"funcionesVentaPie.h"
+	"asignacionID.h"
+	"reportes.h"
+	"menuProveedores.h"
+	"MenuProducto.h"
+	"menuVenta.h"
+	"menuVendedor.h"
+	"menuConfiguracionGeneral.h"
+	"MenuPrincipal.h"
+
+1669038958 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funciones.h
+
+1666976148 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\clasefecha.h
+
+1667314528 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\clasevendedor.h
+
+1667409313 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesvendedores.h
+
+1667310399 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\claseproveedor.h
+
+1667409283 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesproveedor.h
+
+1667312258 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\claseproducto.h
+
+1667409283 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesproducto.h
+
+1669042656 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventacabecera.h
+
+1667409419 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventacabecera.h
+
+1669041882 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventadetalle.h
+
+1667409419 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventadetalle.h
+
+1669040655 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\claseventapie.h
+
+1667409419 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\funcionesventapie.h
+
+1669039250 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\asignacionid.h
+
+1667443356 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\reportes.h
+
+1669039626 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuproveedores.h
+
+1669039774 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuproducto.h
+
+1669043619 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuventa.h
+
+1669040045 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuvendedor.h
+
+1667432483 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuconfiguraciongeneral.h
+
+1669043619 c:\users\guini\onedrive\escritorio\utn\prog y labo 2\labo 2\tp_final\tpfinallab2\menuprincipal.h
+
